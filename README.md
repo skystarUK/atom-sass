@@ -23,7 +23,7 @@ Use atom package manager to install atom-sass.
 
 ![image](https://cloud.githubusercontent.com/assets/2035004/17414920/18ac3db6-5aa5-11e6-8604-60570794b2ee.png)
 
-* Open any sass file which has `.scss` extension.
+* Open any sass file which has `.scss` or `.sass` extension.
 * Press `Alt + Ctrl + c` to watch the files for changes.
 * Upon modification save, it will automatically compile the scss file and generate `.css` file.
 
